@@ -10,7 +10,7 @@ const Error404 = () => {
           <p className="text-5xl mb-8">Sorry, page not found.</p>
           <Link className="btn btn-primary btn-md" to="/">
             <FaHome className="mr-2" />
-            Home
+            Home 
           </Link>
         </div>
       </div>
